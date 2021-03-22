@@ -72,7 +72,6 @@ public class PRIMO {
 		
 		public static void saludar() {
 			
-			System.out.println("Buenos días");
 			System.out.println("Buenos días Ceinmark, soy Marta Gómez");
 		}
 
